@@ -2,11 +2,11 @@
 
 # Darknet for KITTI
 
-This repository is forked from [pjreddie/darknet](https://github.com/pjreddie/darknet). 
+This repository is forked from [pjreddie/darknet](https://github.com/pjreddie/darknet) and [yizhou-wang/darknet-kitti](https://github.com/yizhou-wang/darknet-kitti). 
 
 # What's new for this repository? #
 
-This version of darknet is modified to fit KITTI 2D object dataset. 
+This version of darknet is modified to fit KITTI 2D object dataset and contains the pre-trained weights from training on IMAGENET and KITTI datasets. 
 
 ## Train YOLOv2 for KITTI ##
 
